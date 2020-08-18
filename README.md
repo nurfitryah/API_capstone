@@ -15,7 +15,7 @@ Static Endpoints 2 dibuat bertujuan untuk melihat total jumlah penjualan musik d
 **Static Endpoints 3** (apiccapstone.herokuapp.com/artistlist):
 Static Endpoints 3 dibuat bertujuan agar user dapat melihat daftar nama artis yang berada pada data `chinook.db` dan user dapat mengecek apakah data artis pilihannya berada didalam data `chinook.db`. Static Endpoints 3 akan menunjukkan kolom ArtistName (nama artis yang dipilih), Title (judul album dari masing-masing artis), dan GenreName (genre dari artis tersebut).
 
-**Dynamic Endpoints (Artist Name)** (apiccapstone.heroku.com/data/get/<artistname>): 
+**Dynamic Endpoints (Artist Name)** (apiccapstone.heroku.com/data/get/&lt;artistname&gt;): 
   
 Dynamic Endpoints akan menunjukkan data dari nama artis yang dipilih saja. Misal ingin melihat di Negara apa lagu dari artis U2 lebih sering dibeli atau pada bulan apa lagu dari artis Aerosmith paling banyak dibeli.
 
