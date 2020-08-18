@@ -25,6 +25,6 @@ Untuk mengecek data-data tersebut, anda bisa copy tautan link dibawah ini :
 - Static Endpoints 1 : https://apiccapstone.herokuapp.com/chinook
 - Static Endpoints 2 : https://apiccapstone.herokuapp.com/mediatype
 - Static Endpoints 3 : https://apiccapstone.herokuapp.com/artistlist
-- Dynamic Endpoint   : https://apiccapstone.herokuapp.com/data/get/<artistname>
+- Dynamic Endpoint   : https://apiccapstone.herokuapp.com/data/get/&lt;artistname&gt;
 
 Contoh khusus untuk Dynamic Endpoint : https://apiccapstone.herokuapp.com/data/get/Queen 
