@@ -1,6 +1,6 @@
 # Documentation
 Repositori ini bertujuan untuk melengkapi Data Analytics Course, dengan pemilihan case Deploying Application Programming Interface (API).
-Dalam repositori ini ada dua (2) Static Endpoint dan satu (1) Dynamic Endpoint yang akan dijelaskan di point dibawah.
+Dalam repositori ini ada tiga (3) Static Endpoint dan satu (1) Dynamic Endpoint yang akan dijelaskan di point dibawah.
 
 **Data source** : chinook.db
 
